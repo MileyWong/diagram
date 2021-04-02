@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T07:55:10.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="iPv8zI5b36Cd_15yKH1y" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T08:14:33.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ftN5KtDppHukhsfC7736" version="14.2.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="3236.5" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -37,9 +37,6 @@
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-18" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.firewall;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="757" y="582" width="75" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="IOT拓扑图" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d3iWiOkbir187pmeCiRf-7" value="nginx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="910" y="570" width="40" height="20" as="geometry" />
@@ -120,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-20" value="云服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="770" y="1247.79" width="1035" height="461.47" as="geometry" />
+          <mxGeometry x="770" y="980" width="1035" height="750" as="geometry" />
         </mxCell>
         <mxCell id="iwD6jmV7JMdVwkuPx6IW-7" value="温度设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-890" y="1720" width="79.5" height="79.5" as="geometry" />
@@ -142,6 +139,39 @@
         </mxCell>
         <mxCell id="iwD6jmV7JMdVwkuPx6IW-12" value="部标设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1134.25" y="1580" width="50.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="941.5" y="1450" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-17" value="A设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="929.5" y="1578" width="154.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-19" value="B设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1578" width="154.5" height="10.24" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1450" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-21" value="C设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1582" width="154.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="1450" width="132" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/big-data-analysis-input-server-run-cloud-128.png;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="877" y="1050" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/CPU-processor-cloud-infrastructure-virtual-server-128.png;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1173.25" y="1200" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-34" value="政府平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="973" y="1148" width="154.5" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-35" value="中交兴路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1209.25" y="1340" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-38" value="政府平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="863.75" y="1188" width="154.5" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
