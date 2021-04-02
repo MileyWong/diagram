@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T07:33:15.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="AV-6T40AXy5SQa93QTu0" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T07:35:03.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="4KZnjzHJaNtC-OUGHzuo" version="14.2.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="5190.5" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2469.5" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="G-YqSWljEGFT15W2zlpr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G-YqSWljEGFT15W2zlpr-5" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-5" value="某某温度" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="G-YqSWljEGFT15W2zlpr-5" value="温度设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-432.25" y="1680" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G-YqSWljEGFT15W2zlpr-6" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
