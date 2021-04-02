@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T07:24:47.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="wPVB_9phO5OW1kp84Jfa" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T07:27:18.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="QVa3kIoZjUWxMejEJnVJ" version="14.5.4" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="5190.5" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5877.5" dy="2310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="G-YqSWljEGFT15W2zlpr-22" value="" style="shape=mxgraph.signs.transportation.truck_4;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="1480" width="1321.5" height="440.5" as="geometry" />
+        </mxCell>
         <mxCell id="6a7d8f32e03d9370-61" value="内部处理" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1084" y="300" width="493" height="360" as="geometry" />
         </mxCell>
@@ -85,32 +88,29 @@
         <mxCell id="8EanOsA6HTf-lcCzWFGr-27" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" parent="1" vertex="1">
           <mxGeometry x="-420" y="980" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-1" value="" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#66B2FF;" vertex="1" parent="1">
-          <mxGeometry x="-1700" y="1350" width="1378.22" height="710" as="geometry" />
-        </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G-YqSWljEGFT15W2zlpr-3" target="G-YqSWljEGFT15W2zlpr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-3" value="某某设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.generic;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="1390" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="-1150" y="1489.5" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G-YqSWljEGFT15W2zlpr-4" target="G-YqSWljEGFT15W2zlpr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-4" value=",某某设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.medical_emergency;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="1580" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="-1110" y="1620" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G-YqSWljEGFT15W2zlpr-5" target="G-YqSWljEGFT15W2zlpr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-5" value="某某温度" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="1410" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="-432.25" y="1680" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G-YqSWljEGFT15W2zlpr-6" target="G-YqSWljEGFT15W2zlpr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-6" value="某某你懂" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="1640" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="-876.5" y="1720" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1250" width="90" height="100" as="geometry" />
