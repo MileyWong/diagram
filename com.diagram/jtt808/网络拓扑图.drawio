@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T09:41:12.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="KbHftxxl7DwaNbuy_0fx" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T09:42:00.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Uekx0sbqr4lZJNnHi7fE" version="14.2.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="5190.5" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3236.5" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -53,10 +53,10 @@
         <mxCell id="G-YqSWljEGFT15W2zlpr-20" value="外部云服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="697" y="403.52" width="1000" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-7" value="温度设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-7" value="温度设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-980" y="1020" width="79.5" height="79.5" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.806;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iwD6jmV7JMdVwkuPx6IW-7" target="G-YqSWljEGFT15W2zlpr-22" edge="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.806;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iwD6jmV7JMdVwkuPx6IW-7" target="G-YqSWljEGFT15W2zlpr-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1110" y="999.5028571428572" as="sourcePoint" />
             <mxPoint x="-625" y="790" as="targetPoint" />
@@ -65,58 +65,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-9" value="视频设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-9" value="视频设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="929.76" width="79.5" height="79.5" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.generic;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.generic;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="790" width="79.5" height="79.5" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-12" value="部标设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-12" value="部标设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1224.25" y="880" width="50.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1083.25" y="911.76" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-21" value="C设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-21" value="C设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1326" y="1050.24" width="154.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1337.25" y="900" width="132" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/big-data-analysis-input-server-run-cloud-128.png;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/big-data-analysis-input-server-run-cloud-128.png;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="813.5" y="440" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/CPU-processor-cloud-infrastructure-virtual-server-128.png;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/CPU-processor-cloud-infrastructure-virtual-server-128.png;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="813.5" y="632" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-35" value="中交兴路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-35" value="中交兴路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="846" y="760" width="56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-38" value="政府平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-38" value="政府平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="796.75" y="568" width="154.5" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-39" value="A设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-39" value="A设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="1050" width="154.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/151_cloud_network_server_internet_data_network_cloud_smart_computing-128.png;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="833.25" y="905.51" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-41" value="B设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-41" value="B设备供应商云服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1050" width="154.5" height="10.24" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-48" value="内部云服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-48" value="内部云服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="697" y="1370" width="1000" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-50" value="基础服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-50" value="基础服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="730" y="1430" width="160" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-51" value="业务服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-51" value="业务服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1430" width="610" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-55" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.media_services;fillColor=#666666;gradientColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-55" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.media_services;fillColor=#666666;gradientColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="766" y="1530" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-57" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8EanOsA6HTf-lcCzWFGr-9" target="iwD6jmV7JMdVwkuPx6IW-50" edge="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-57" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8EanOsA6HTf-lcCzWFGr-9" target="iwD6jmV7JMdVwkuPx6IW-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="880" as="sourcePoint" />
             <mxPoint x="510" y="1760" as="targetPoint" />
@@ -125,20 +125,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-58" value="808协议解析服务" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.server_migration_service;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-58" value="808协议解析服务" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.server_migration_service;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="766" y="1665" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-59" value="1078解析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-59" value="1078解析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="773.5" y="1610" width="56.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-65" value="MQTT服务" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.server_migration_service;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iwD6jmV7JMdVwkuPx6IW-65" target="iwD6jmV7JMdVwkuPx6IW-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-65" value="MQTT服务" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.server_migration_service;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="770" y="1840" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-66" value="MQTT&#xa;protocol" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mqtt_protocol;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-66" value="MQTT&#xa;protocol" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mqtt_protocol;" vertex="1" parent="1">
           <mxGeometry x="830" y="1960" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iwD6jmV7JMdVwkuPx6IW-67" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mq;fillColor=#666666;gradientColor=#666666;" parent="1" vertex="1">
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-67" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mq;fillColor=#666666;gradientColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="940" y="1861" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-69" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=#666666;gradientColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1550" width="76.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="co15tHwBzbx9g4es62kg-1" value="气体传感器" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lightbulb;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-530" y="980" width="79.5" height="79.5" as="geometry" />
