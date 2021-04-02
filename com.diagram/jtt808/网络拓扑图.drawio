@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T09:35:18.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="4QoZmx0bnjsmWhk04jqd" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T09:36:31.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="PCh9ymMgzdTIXQp1xtj5" version="14.2.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="3236.5" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="iwD6jmV7JMdVwkuPx6IW-66" value="MQTT&#xa;protocol" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mqtt_protocol;" vertex="1" parent="1">
           <mxGeometry x="830" y="1960" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-67" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientDirection=north;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mq;fillColor=#666666;gradientColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1861" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
