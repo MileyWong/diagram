@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T07:35:03.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="4KZnjzHJaNtC-OUGHzuo" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T07:42:22.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IX0YNT4hbpOTvUdBdn56" version="14.2.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="2469.5" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2168.5" dy="219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -88,36 +88,28 @@
         <mxCell id="8EanOsA6HTf-lcCzWFGr-27" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" parent="1" vertex="1">
           <mxGeometry x="-420" y="980" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G-YqSWljEGFT15W2zlpr-3" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G-YqSWljEGFT15W2zlpr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1070.5" y="1529.2758620689656" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-3" value="某某设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.generic;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1150" y="1489.5" width="79.5" height="79.5" as="geometry" />
-        </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G-YqSWljEGFT15W2zlpr-4" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-4" value=",某某设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.medical_emergency;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1110" y="1620" width="79.5" height="79.5" as="geometry" />
+        <mxCell id="G-YqSWljEGFT15W2zlpr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1030.5" y="1659.7428571428572" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G-YqSWljEGFT15W2zlpr-5" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-5" value="温度设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
+        <mxCell id="G-YqSWljEGFT15W2zlpr-5" value="气体传感器" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-432.25" y="1680" width="79.5" height="79.5" as="geometry" />
-        </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G-YqSWljEGFT15W2zlpr-6" target="G-YqSWljEGFT15W2zlpr-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-6" value="某某你懂" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;gradientColor=none;fillColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-876.5" y="1720" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;" parent="1" vertex="1">
           <mxGeometry x="-580" y="1380" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="G-YqSWljEGFT15W2zlpr-9" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;exitX=0.84;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G-YqSWljEGFT15W2zlpr-3" target="8EanOsA6HTf-lcCzWFGr-25" edge="1">
+        <mxCell id="G-YqSWljEGFT15W2zlpr-9" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;exitX=0.84;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="8EanOsA6HTf-lcCzWFGr-25" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-1060.25" y="1550" as="sourcePoint" />
+            <mxPoint x="-1083.22" y="1503.0149999999999" as="sourcePoint" />
             <mxPoint x="-985.3500000000004" y="850.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -129,6 +121,12 @@
         </mxCell>
         <mxCell id="G-YqSWljEGFT15W2zlpr-20" value="云服务" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="1247.79" width="1035" height="461.47" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-1" value="视频设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="1490" width="79.5" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iwD6jmV7JMdVwkuPx6IW-4" value="温度设备" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;gradientColor=none;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="1620" width="79.5" height="79.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
